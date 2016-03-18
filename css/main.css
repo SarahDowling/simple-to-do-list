@@ -7,5 +7,6 @@ html {
 }
 
 .is-clicked {
-  background-color: gray;
+  color: gray;
+  text-decoration: line-through;
 }

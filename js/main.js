@@ -1,5 +1,5 @@
-var $input = $('#grocery-input');
-var $list = $(".list");
+var $input = $('#do-input');
+var $list = $('.list');
 
 $('form').on('submit', function (e) {
   var $li = $('<li>');
